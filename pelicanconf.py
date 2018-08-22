@@ -40,3 +40,5 @@ PLUGIN_PATH = './plugins'
 PLUGINS = ['ipynb.markup']
 
 IGNORE_FILES = ['.ipynb_checkpoints']
+
+THEME = '/Users/jrozra200/Desktop/jakelearnsdatascience/pelican-themes/blue-penguin'
